@@ -12,4 +12,4 @@
 
 
 # Other
-- [SipHash](https://github.com/hydroid7/siphash-hdl) SipHash implementation in Verilog
+- [SipHash](https://github.com/hydroid7/siphash) SipHash implementation in Verilog
